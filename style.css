@@ -1,0 +1,148 @@
+body{
+    font-family: 'Noto Sans HK', sans-serif;
+}
+.list{
+    /* border: 2px solid; */
+    display: inline-flex;
+    justify-content: center;
+    margin-right: 100px;
+    margin-left: 290px;
+    position: relative;
+    top: -26px;
+
+
+}
+.list-item{
+    list-style-type: none;
+    padding: 10px;
+    font-weight: 600;
+    color: rgb(62, 71, 148);
+    font-size: 14px;
+}
+.navbar img{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.navbar button{
+    padding: 10px 21px;
+    font-size: 12px;
+    border-radius: 31px;
+    position: absolute;
+    top: 38px;
+    right: 132px;
+    background: linear-gradient(to right,#965cf2,#ff8adc);
+    color: white;
+    border: none;
+}
+.right{
+    /* border: 2px solid; */
+    float: right;
+}
+img[src="intro-img.svg"]{
+    height: 550px;
+    position: relative;
+    right: 53px;
+    top: 51px
+} 
+img[src="backcover.svg"]{
+    height: 670px;
+    z-index: -1;
+    position: absolute;
+    right: -99px;
+    top: 0px;
+    width: 885px;
+}
+.web{
+    /* border: 2px solid; */
+    margin-left: 120px;
+    margin-top: 80px;
+    display: inline-grid;
+
+}
+.web h1{
+    font-size: 80px;
+    /* border: 2px solid; */
+    display: block;
+    color: #3e4794;
+}
+.web p{
+    display: inline-flex;
+    /* border: 2px solid; */
+    width: 348px;
+    color: rgb(73, 77, 116);
+    font-weight: 600;
+}
+.web button{
+    width: 203px;
+    padding: 15px 24px;
+    font-size: 23px;
+    border-radius: 26px;
+    margin-top: 30px;
+    background: linear-gradient(to right,#965cf2,#ff8adc);
+    color: white;
+    border: none;
+    font-weight: 600;
+
+}
+img[src="vector.svg"]{
+    height: 102px;
+    position: absolute;
+    top: 495px;
+    left: 641px;
+
+}
+.list-item:hover{
+    color: black;
+    cursor: pointer;
+
+}
+.navbar button:hover{
+    color: black;
+    cursor: pointer;
+
+}
+.web button:hover{
+    /* border: 1px solid black; */
+    color: black;
+    cursor: pointer;
+
+}
+@media screen and (max-width:800px) {
+    .list{
+        display: none;
+        border: 2px solid black;
+    }
+    img[src="logo.svg"]{
+        margin-left: auto;
+
+
+    }
+    /* .navbar{
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+    } */
+    .navbar button{
+        position: absolute;
+        right: 35px;
+    }
+    .web{
+        margin-left: 54px;
+        margin-top: auto;
+
+    }
+    .web p{
+        margin-top: -48px;
+    }
+    img[src="intro-img.svg"]{
+        height: 368px;
+    }
+    img[src="vector.svg"]{
+        position: absolute;
+    left: 10px;
+    top: 845px;
+    height: 65px;
+
+    }
+    
+}
