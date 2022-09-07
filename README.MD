@@ -13,7 +13,7 @@ BODY:
 
 ON MOBILE:
 
-![mOBILE](sc/mob.PNG)
+![mOBILE](mob.PNG)
 
 
 
