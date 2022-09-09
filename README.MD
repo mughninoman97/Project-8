@@ -1,15 +1,17 @@
-## PROJECT NO. 8
+## PROJECT NO. 8 (Web Design)
 
-This is my 8th project of Web Development. This is my Second Responsive project that works on large(Desktop & Laptop) as well as small screens(Mobile Devices). In this project I have learnt a lot of new concepts of CSS like  display and float properties, handling Media Queries, how to override properties on media queries etc. 
+This is my _**8th project**_ of Web Development. This is my **Second Responsive project** that works on large(Desktop & Laptop) as well as small screens(Mobile Devices). In this project I have learnt a lot of new concepts of CSS like  _**display and float properties, handling Media Queries, how to override properties on media queries**_ etc. 
+
+> [Do checkout my live project](https://project-8-by-noman.netlify.app/)
 
 FULL WEBPAGE:
-![Project2](/sc/full.png "proj2 image")
+![Project8](/sc/full.png "proj8 image")
 
 NAVBAR:
-![Project2]( /sc/nav.PNG "proj2 image")
+![Project8]( /sc/nav.PNG "proj8 image")
 
 BODY:
-![Project2]( /sc/body.PNG "pro21 image")
+![Project8]( /sc/body.PNG "pro8 image")
 
 ON MOBILE:
 
@@ -21,8 +23,8 @@ ON MOBILE:
 
 ## Technologies Used
 
-![Mascot](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "mascot logo")
-![Mascot](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "mascot logo")
+![html](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "html")
+![css](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "css")
 
 
 ## What I leaned
